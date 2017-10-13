@@ -21,7 +21,7 @@ if f1<0.5 and f2>=0.5:
 if f1==0.5 and f2==0.5:
     high=math.ceil(high1)
     low=math.floor(low1)
-count = #count no. of digits in the ending value
+count =0 #count no. of digits in the ending value
 num=e1
 while num > 0:
     num=int(num/10)
