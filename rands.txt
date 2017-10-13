@@ -22,7 +22,6 @@ if f1==0.5 and f2==0.5:
     high=math.ceil(high1)
     low=math.floor(low1)
 count = 0
-print(high,low)
 #count no. of digits in the ending value
 num=e1
 while num > 0:
