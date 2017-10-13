@@ -1,4 +1,4 @@
-# custom-random-number-generation-algo-in-python-which-should-be-73-biased-to-the-higher-number without using random no. generator function
+# custom-random-number-generation-algo-in-python-which-should-be-73-biased-to-the-higher-number without using random no. generator function(Runs on Python 3 or higher versions)
 Input from the user the starting value, ending value of the range and the number of random values to be generating and store these in the variables s,e and h respectively.   .
 Convert s, e and h into integers and store in s1,e1 and h1 respectively.  
 Calculate mid point of the range and store in half.  
